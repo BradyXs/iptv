@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视高清" tvg-logo="http://yourhost/iptv-logo/CCTV1.png" group-title="高清",湖南卫视高清
 http://10.10.10.1:8888/rtp/239.76.252.115:9000
 #EXTINF:-1 tvg-id="2" tvg-name="湖南经视高清" tvg-logo="http://yourhost/iptv-logo/CCTV1.png" group-title="高清",湖南经视高清
